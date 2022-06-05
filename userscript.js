@@ -7,7 +7,7 @@
 // @description Put a blur effect on your chats and avoid peeping toms
 // @icon         https://www.google.com/s2/favicons?domain=whatsapp.com
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
-// @require      https://gist.githubusercontent.com/L4stIdi0t/b5c7dad05f04606e097acdbd60739ca1/raw/9c97aa67ff9c5d56be34a55ad6c18a314e5eb548/waitForKeyElements.js
+// @require      https://gitcdn.xyz/cdn/L4stIdi0t/whatsapp-privacity-blur/48d1d63ea60d5990c1eabc8b841a52b558455c33/userscript.js
 // @grant        GM_addStyle
 // @run-at       document-idle
 // ==/UserScript==
